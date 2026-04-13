@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UCC IT Mobile App</string>
+    <string name="faculty_directory">Faculty/Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="admissions">Admissions</string>
+    <string name="social_media">Social Media</string>
+    <string name="email_hod">Email HOD</string>
+    <string name="hod_email">ithod@ucc.edu.jm</string>
+    <string name="ucc_application_url">https://ucc.edu.jm/admissions/</string>
+    <string name="ucc_facebook_url">https://www.facebook.com/UCCJamaica</string>
+    <string name="ucc_twitter_url">https://twitter.com/UCCJamaica</string>
+    <string name="ucc_instagram_url">https://www.instagram.com/uccjamaica/</string>
+    <string name="department_name">Department of Information Technology</string>
+    <string name="ucc_full_name">University of the Commonwealth Caribbean</string>
+</resources>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/item_staff.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/item_staff.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_admissions.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_admissions.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_directory.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_directory.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_social_media.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_social_media.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_courses.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_courses.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_course_detail.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_course_detail.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/activity_splash.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ucc.itmobileapp-mergeDebugResources-35:/layout/item_course.xml",
+        "source": "com.ucc.itmobileapp-main-38:/layout/item_course.xml"
+    }
+]

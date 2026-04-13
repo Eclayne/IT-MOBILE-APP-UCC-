@@ -1,0 +1,40 @@
+com.ucc.itmobileapp-jetified-customview-poolingcontainer-1.0.0-0 C:\Users\Ethan\.gradle\caches\8.13\transforms\144d330ecb9c872cec9ed14d16fb9fda\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.ucc.itmobileapp-fragment-1.3.6-1 C:\Users\Ethan\.gradle\caches\8.13\transforms\197f0d061652edaecc36468e5951e2b6\transformed\fragment-1.3.6\res
+com.ucc.itmobileapp-room-runtime-2.6.1-2 C:\Users\Ethan\.gradle\caches\8.13\transforms\1ebc4650bbd6466599f63dd1291ede38\transformed\room-runtime-2.6.1\res
+com.ucc.itmobileapp-material-1.11.0-3 C:\Users\Ethan\.gradle\caches\8.13\transforms\2374ce637ed0b30de3f6a947dabaf4a9\transformed\material-1.11.0\res
+com.ucc.itmobileapp-drawerlayout-1.1.1-4 C:\Users\Ethan\.gradle\caches\8.13\transforms\25b53c17657c60c6ca087483e9735c4e\transformed\drawerlayout-1.1.1\res
+com.ucc.itmobileapp-recyclerview-1.3.2-5 C:\Users\Ethan\.gradle\caches\8.13\transforms\3ba9f370e64174640e473a436bd90d06\transformed\recyclerview-1.3.2\res
+com.ucc.itmobileapp-lifecycle-livedata-core-2.6.1-6 C:\Users\Ethan\.gradle\caches\8.13\transforms\3d5f9bf69d45ada2418b76ab1c42ac6d\transformed\lifecycle-livedata-core-2.6.1\res
+com.ucc.itmobileapp-jetified-lifecycle-process-2.6.1-7 C:\Users\Ethan\.gradle\caches\8.13\transforms\4094d64c15d5345b37d7c3af381c55d7\transformed\jetified-lifecycle-process-2.6.1\res
+com.ucc.itmobileapp-core-runtime-2.2.0-8 C:\Users\Ethan\.gradle\caches\8.13\transforms\4104dd2d3438506ede284fba971d60a2\transformed\core-runtime-2.2.0\res
+com.ucc.itmobileapp-sqlite-2.4.0-9 C:\Users\Ethan\.gradle\caches\8.13\transforms\4c300115ba4916b1bcf3086cd6eb2bd0\transformed\sqlite-2.4.0\res
+com.ucc.itmobileapp-jetified-annotation-experimental-1.3.0-10 C:\Users\Ethan\.gradle\caches\8.13\transforms\4fa0c5825ff63e8747e9c2f8b86ae21b\transformed\jetified-annotation-experimental-1.3.0\res
+com.ucc.itmobileapp-sqlite-framework-2.4.0-11 C:\Users\Ethan\.gradle\caches\8.13\transforms\5008b20e5b0c38a4eae9d1d4b4cb7a2c\transformed\sqlite-framework-2.4.0\res
+com.ucc.itmobileapp-lifecycle-livedata-2.6.1-12 C:\Users\Ethan\.gradle\caches\8.13\transforms\504f472303fcd32331338f14d263abb6\transformed\lifecycle-livedata-2.6.1\res
+com.ucc.itmobileapp-jetified-appcompat-resources-1.6.1-13 C:\Users\Ethan\.gradle\caches\8.13\transforms\5485229de67cdcc784857c28893e9676\transformed\jetified-appcompat-resources-1.6.1\res
+com.ucc.itmobileapp-jetified-viewpager2-1.1.0-beta02-14 C:\Users\Ethan\.gradle\caches\8.13\transforms\5bb8709c80308481e1e13d76a6d9dbbc\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.ucc.itmobileapp-cardview-1.0.0-15 C:\Users\Ethan\.gradle\caches\8.13\transforms\6281de181c4c84a4ca74a4fb86cb69de\transformed\cardview-1.0.0\res
+com.ucc.itmobileapp-coordinatorlayout-1.1.0-16 C:\Users\Ethan\.gradle\caches\8.13\transforms\64998c191d721a63d9c53791d2654c34\transformed\coordinatorlayout-1.1.0\res
+com.ucc.itmobileapp-lifecycle-viewmodel-2.6.1-17 C:\Users\Ethan\.gradle\caches\8.13\transforms\66e21a49b92c5207f6ce3dc7cdf0a00e\transformed\lifecycle-viewmodel-2.6.1\res
+com.ucc.itmobileapp-appcompat-1.6.1-18 C:\Users\Ethan\.gradle\caches\8.13\transforms\697c280cffb03dbe3bbc39353bcf01c9\transformed\appcompat-1.6.1\res
+com.ucc.itmobileapp-jetified-lifecycle-viewmodel-savedstate-2.6.1-19 C:\Users\Ethan\.gradle\caches\8.13\transforms\9e0afc1ee48319677002b27a2afecfc9\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.ucc.itmobileapp-jetified-savedstate-1.2.1-20 C:\Users\Ethan\.gradle\caches\8.13\transforms\af189935d8e663169e786b540d82c81a\transformed\jetified-savedstate-1.2.1\res
+com.ucc.itmobileapp-transition-1.2.0-21 C:\Users\Ethan\.gradle\caches\8.13\transforms\af9ed4af01cda9b57c744bd9ecdaf8ad\transformed\transition-1.2.0\res
+com.ucc.itmobileapp-lifecycle-runtime-2.6.1-22 C:\Users\Ethan\.gradle\caches\8.13\transforms\b485adff8f7a9cf3d7cf0514bd88c61e\transformed\lifecycle-runtime-2.6.1\res
+com.ucc.itmobileapp-jetified-activity-1.8.0-23 C:\Users\Ethan\.gradle\caches\8.13\transforms\b8e0610ebfa6fced4c8dcd5bbc9fc9ef\transformed\jetified-activity-1.8.0\res
+com.ucc.itmobileapp-jetified-glide-4.16.0-24 C:\Users\Ethan\.gradle\caches\8.13\transforms\ba25fd1747c00c3dbde142160741bf1c\transformed\jetified-glide-4.16.0\res
+com.ucc.itmobileapp-jetified-core-ktx-1.9.0-25 C:\Users\Ethan\.gradle\caches\8.13\transforms\ba41c59f5eeebb0b1487b7e90b145cef\transformed\jetified-core-ktx-1.9.0\res
+com.ucc.itmobileapp-core-1.9.0-26 C:\Users\Ethan\.gradle\caches\8.13\transforms\bc6067aedde4ffa8518cecadb296d2d6\transformed\core-1.9.0\res
+com.ucc.itmobileapp-jetified-startup-runtime-1.1.1-27 C:\Users\Ethan\.gradle\caches\8.13\transforms\bf1b3de6da5ecad3bc6368668781a5e9\transformed\jetified-startup-runtime-1.1.1\res
+com.ucc.itmobileapp-constraintlayout-2.1.4-28 C:\Users\Ethan\.gradle\caches\8.13\transforms\c2b131cb7c409640babc50716271d50b\transformed\constraintlayout-2.1.4\res
+com.ucc.itmobileapp-jetified-profileinstaller-1.3.0-29 C:\Users\Ethan\.gradle\caches\8.13\transforms\d18399556291b8c9d2bf34379ce01459\transformed\jetified-profileinstaller-1.3.0\res
+com.ucc.itmobileapp-jetified-emoji2-views-helper-1.2.0-30 C:\Users\Ethan\.gradle\caches\8.13\transforms\d4b90c3c1d65f7262a509586e1485852\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.ucc.itmobileapp-jetified-emoji2-1.2.0-31 C:\Users\Ethan\.gradle\caches\8.13\transforms\dbae16470f661042cfc57e055f040c38\transformed\jetified-emoji2-1.2.0\res
+com.ucc.itmobileapp-pngs-32 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\generated\res\pngs\debug
+com.ucc.itmobileapp-resValues-33 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\generated\res\resValues\debug
+com.ucc.itmobileapp-updated_navigation_xml-34 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\generated\updated_navigation_xml\debug
+com.ucc.itmobileapp-packageDebugResources-35 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.ucc.itmobileapp-packageDebugResources-36 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.ucc.itmobileapp-debug-37 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.ucc.itmobileapp-debug-38 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\src\debug\res
+com.ucc.itmobileapp-main-39 C:\Users\Ethan\Downloads\uccit_mobile_app_duo1_S2026 (2)\UCCITMobileApp\app\src\main\res

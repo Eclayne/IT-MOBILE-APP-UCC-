@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- UCC Brand Colors -->
+    <color name="ucc_blue">#003087</color>
+    <color name="ucc_gold">#FFD700</color>
+    <color name="ucc_blue_dark">#001A5C</color>
+    <color name="ucc_gold_dark">#CCA800</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="card_background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Social Media Colors -->
+    <color name="facebook_blue">#1877F2</color>
+    <color name="twitter_blue">#1DA1F2</color>
+    <color name="instagram_purple">#C13584</color>
+</resources>
